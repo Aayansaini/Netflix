@@ -1,0 +1,149 @@
+ #search {
+   height: 40px;
+   width: 400px;
+   position: absolute;
+   margin-left: 650px;
+   margin-top: -200px;
+   border-radius: 10px;
+   border: 1px solid white;
+   background-color: transparent;
+   color: white;
+   font-size: 15px;
+ }
+
+ ::placeholder {
+   font-size: 12px;
+ }
+
+ .last {
+   height: 200px;
+   width: 100%;
+   margin-top: 130px;
+   background-color: rgb(5, 5, 5);
+   border-top: 1px solid white;
+   border-bottom: 1px solid white;
+ }
+
+ #t1 {
+   display: flex;
+   justify-content: center;
+   font-family: 'Georgia';
+   font-size: 10rem;
+   color: red;
+ }
+
+ /* #t2 {
+  display: flex;
+  float: right;
+  color: white;
+  margin-right: 50px;
+  font-size: 15px;
+  margin-top: -25px;
+} */
+ .container1 {
+   height: 4080px;
+   width: 100%;
+   background-color: black;
+ }
+
+ .container2 {
+   display: flex;
+   height: 350px;
+   width: 100%;
+   margin-top: 20px;
+   background-color: transparent;
+ }
+
+ .q2 {
+   justify-content: center;
+   text-decoration: none;
+   list-style: none;
+   margin-top: 50px;
+ }
+
+ .q1 {
+   text-decoration: none;
+   list-style: none;
+   margin-top: 50px;
+ }
+
+ li {
+   padding: 10px;
+   color: white;
+ }
+
+ li:hover {
+   color: red;
+   cursor: pointer;
+   border-left: 1px solid white;
+ }
+
+ #net {
+   position: absolute;
+   height: 200px;
+   width: 400px;
+   margin-left: 900px;
+   margin-top: 50px;
+   border-radius: 100px;
+ }
+
+ #net1 {
+   position: absolute;
+   height: 150px;
+   width: 150px;
+   margin-left: 1025px;
+   margin-top: 200px;
+   border-radius: 100px;
+ }
+
+ #b5 {
+   height: 30px;
+   width: 350px;
+   margin-top: 150px;
+   margin-left: 100px;
+   background-color: black;
+   border: 1px solid white;
+   border-radius: 12px;
+   color: white;
+   font-size: 15px;
+ }
+
+ ::placeholder {
+   color: white;
+   font-size: 12px;
+ }
+
+ #email {
+   position: absolute;
+   height: 33px;
+   width: 33px;
+   margin-left: 836px;
+   margin-top: 151px;
+   border: none;
+ }
+
+ #search1 {
+   position: absolute;
+   height: 33px;
+   width: 33px;
+   margin-left: 1010px;
+   margin-top: -195px;
+   border: none;
+ }
+
+ #b6 {
+   position: absolute;
+   height: 40px;
+   width: 150px;
+   margin-left: 620px;
+   margin-top: 250px;
+   font-weight: bold;
+   border-radius: 10px;
+   font-size: 20px;
+   box-shadow: 1px 1px 10px 5px red;
+ }
+
+ #b6:hover {
+   opacity: 0.8;
+   cursor: pointer;
+ }
